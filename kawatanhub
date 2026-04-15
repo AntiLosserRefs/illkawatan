@@ -44,6 +44,7 @@ getgenv().TARGET_BRAINROTS = {
     ["La Romantic Grande"] = true,
     ["Tictac Sahur"] = true,
     ["La Extinct Grande"] = true,
+    ["Ventoliero Pavonero"] = true,
     ["Fortunu and Cashuru"] = true,
     ["Los Amigos"] = true,
     ["Los Sekolahs"] = true,
